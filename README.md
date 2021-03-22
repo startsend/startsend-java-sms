@@ -44,4 +44,6 @@ StartSendSample - множество примеров работы с API StartS
    *  Пример ответа: {"result":{"password_object_id":243}}
       @return: String - ID password Object
    */
-  public String createPasswordObject(String type, Integer len)
+ 
+ Параметры метода: 
+ public String createPasswordObject(String type, Integer len)
